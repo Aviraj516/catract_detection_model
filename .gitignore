@@ -1,0 +1,27 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
